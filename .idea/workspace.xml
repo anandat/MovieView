@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5b4e2e0-33fe-4567-9fb0-7e0bbe6d46f3" name="Default Changelist" comment="" />
+    <list default="true" id="b5b4e2e0-33fe-4567-9fb0-7e0bbe6d46f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_shopping_cart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_shopping_cart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +41,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dGsjpZvdGG0aPTvPthZlXB0hHZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
@@ -25,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -76,12 +108,25 @@
       <workItem from="1592108057032" duration="5000" />
       <workItem from="1592108705579" duration="62000" />
       <workItem from="1592109387723" duration="132000" />
-      <workItem from="1592109531681" duration="11796000" />
+      <workItem from="1592109531681" duration="14246000" />
+      <workItem from="1592124920649" duration="1492000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592107842116">
@@ -92,22 +137,22 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="429" height="466" key="DebuggerActiveHint/0.23.1680.960@0.23.1680.960" timestamp="1592118858647" />
-    <state width="1156" height="281" key="GridCell.Tab.0.bottom" timestamp="1592122092324">
+    <state width="1156" height="341" key="GridCell.Tab.0.bottom" timestamp="1592124909010">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1156" height="281" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1592122092324" />
-    <state width="1156" height="281" key="GridCell.Tab.0.center" timestamp="1592122092323">
+    <state width="1156" height="341" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1592124909010" />
+    <state width="1156" height="341" key="GridCell.Tab.0.center" timestamp="1592124909009">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1156" height="281" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1592122092323" />
-    <state width="1156" height="281" key="GridCell.Tab.0.left" timestamp="1592122092323">
+    <state width="1156" height="341" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1592124909009" />
+    <state width="1156" height="341" key="GridCell.Tab.0.left" timestamp="1592124909009">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1156" height="281" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1592122092323" />
-    <state width="1156" height="281" key="GridCell.Tab.0.right" timestamp="1592122092324">
+    <state width="1156" height="341" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1592124909009" />
+    <state width="1156" height="341" key="GridCell.Tab.0.right" timestamp="1592124909009">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1156" height="281" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1592122092324" />
+    <state width="1156" height="341" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1592124909009" />
     <state x="265" y="145" key="SettingsEditor" timestamp="1592107807409">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -126,23 +171,58 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="Dart">
           <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
-          <line>27</line>
+          <line>30</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="Dart">
           <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
-          <line>28</line>
+          <line>31</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="Dart">
           <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
-          <line>29</line>
+          <line>32</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="Dart">
           <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
-          <line>59</line>
-          <option name="timeStamp" value="27" />
+          <line>84</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
+          <line>86</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
+          <line>85</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
+          <line>96</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/bloc/catalog_bloc.dart</url>
+          <line>23</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/bloc/catalog_bloc.dart</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/bloc/catalog_bloc.dart</url>
+          <line>24</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/catalog/ui/my_catalog.dart</url>
+          <line>21</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
